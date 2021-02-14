@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dershane Soru Sistemi</string>
+    <string name="dersSec">Ders Seçiniz</string>
+
+    <string-array name="topicArray">
+        <item>Matematik</item>
+        <item>Fizik</item>
+        <item>Kimya</item>
+    </string-array>
+
+</resources>
+

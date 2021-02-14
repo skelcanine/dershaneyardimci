@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038713791391",
+    "firebase_url": "https://sorusistemi.firebaseio.com",
+    "project_id": "sorusistemi",
+    "storage_bucket": "sorusistemi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038713791391:android:9969cf1fcbadf2120353aa",
+        "android_client_info": {
+          "package_name": "com.example.tenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038713791391-a7nfi5io23l0a1gios2arivps33khibg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7PN7lhsHIqLwHtJaY-wfeP6V7zMwJbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038713791391-a7nfi5io23l0a1gios2arivps33khibg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
